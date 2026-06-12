@@ -1,0 +1,4 @@
+motor:
+- edit.php: backup?
+- admin.php: exit parancs (close session)
+- logrotate
